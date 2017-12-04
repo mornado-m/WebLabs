@@ -9,6 +9,8 @@ using System.Windows.Forms;
 
 namespace Lab_4
 {
+    //Код класу для роботи із окремим словом 
+    //в окремому потоці
     public class Word
     {
         private Label _text;

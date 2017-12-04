@@ -1,0 +1,11 @@
+D:\Learning\3 курс\Перший семестр\ПЗМТ\lab_5_server\ClientApp\bin\Debug\ClientApp.exe.config
+D:\Learning\3 курс\Перший семестр\ПЗМТ\lab_5_server\ClientApp\bin\Debug\ClientApp.exe
+D:\Learning\3 курс\Перший семестр\ПЗМТ\lab_5_server\ClientApp\bin\Debug\ClientApp.pdb
+D:\Learning\3 курс\Перший семестр\ПЗМТ\lab_5_server\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+D:\Learning\3 курс\Перший семестр\ПЗМТ\lab_5_server\ClientApp\obj\Debug\ClientApp.MainForm.resources
+D:\Learning\3 курс\Перший семестр\ПЗМТ\lab_5_server\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+D:\Learning\3 курс\Перший семестр\ПЗМТ\lab_5_server\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.Cache
+D:\Learning\3 курс\Перший семестр\ПЗМТ\lab_5_server\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\Learning\3 курс\Перший семестр\ПЗМТ\lab_5_server\ClientApp\obj\Debug\ClientApp.exe
+D:\Learning\3 курс\Перший семестр\ПЗМТ\lab_5_server\ClientApp\obj\Debug\ClientApp.pdb
+D:\Learning\3 курс\Перший семестр\ПЗМТ\lab_5_server\ClientApp\obj\Debug\ClientApp.LoginInit.resources

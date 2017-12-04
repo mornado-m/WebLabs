@@ -11,6 +11,7 @@ using System.Windows.Forms;
 
 namespace Lab_4
 {
+    //Основний код форми
     public partial class MainForm : Form
     {
         private List<Label> _words;

@@ -1,0 +1,7 @@
+D:\Learning\3 курс\Перший семестр\ПЗМТ\lab_5_server\lab_5_server\bin\Debug\lab_5_server.exe.config
+D:\Learning\3 курс\Перший семестр\ПЗМТ\lab_5_server\lab_5_server\bin\Debug\lab_5_server.exe
+D:\Learning\3 курс\Перший семестр\ПЗМТ\lab_5_server\lab_5_server\bin\Debug\lab_5_server.pdb
+D:\Learning\3 курс\Перший семестр\ПЗМТ\lab_5_server\lab_5_server\obj\Debug\lab_5_server.csprojResolveAssemblyReference.cache
+D:\Learning\3 курс\Перший семестр\ПЗМТ\lab_5_server\lab_5_server\obj\Debug\lab_5_server.csproj.CoreCompileInputs.cache
+D:\Learning\3 курс\Перший семестр\ПЗМТ\lab_5_server\lab_5_server\obj\Debug\lab_5_server.exe
+D:\Learning\3 курс\Перший семестр\ПЗМТ\lab_5_server\lab_5_server\obj\Debug\lab_5_server.pdb
